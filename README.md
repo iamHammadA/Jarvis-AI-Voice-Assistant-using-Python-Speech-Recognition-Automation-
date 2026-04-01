@@ -157,7 +157,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy...
 ## 📫 Contact
 
 - **GitHub:** [iamHammadA](https://github.com/iamHammadA)
-- **Instagram:** [@iamHammadA](https://instagram.com/iamHammadA)
+- **Instagram:** [@iamHammadA](https://instagram.com/iamhammad.a)
 
 ---
 
