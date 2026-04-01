@@ -1,0 +1,9 @@
+pyttsx3
+SpeechRecognition
+requests
+beautifulsoup4
+pytube
+mediapipe
+opencv-python
+google-generativeai
+numpy
