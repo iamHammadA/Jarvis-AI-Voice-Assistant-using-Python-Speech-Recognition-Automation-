@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.env
+file.txt
+youtube_api
+api_key
+search_engine_id
