@@ -1,3 +1,9 @@
+![Repo Size](https://img.shields.io/github/repo-size/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-)
+![Stars](https://img.shields.io/github/stars/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-?style=social)
+![Forks](https://img.shields.io/github/forks/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-?style=social)
+![Issues](https://img.shields.io/github/issues/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-)
+![License](https://img.shields.io/github/license/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-)
+
 # Jarvis - AI Voice Assistant 🤖
 
 A Python-based intelligent voice assistant that can search the web, play media, open applications, and respond using AI-powered text-to-speech.
