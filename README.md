@@ -6,6 +6,8 @@
 ![Issues](https://img.shields.io/github/issues/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-)
 ![License](https://img.shields.io/github/license/iamHammadA/Jarvis-AI-Voice-Assistant-using-Python-Speech-Recognition-Automation-)
 
+🚀 Control your computer using just your voice — like Iron Man’s Jarvis.
+
 A Python-based intelligent voice assistant that can search the web, play media, open applications, and respond using AI-powered text-to-speech.
 
 ## ✨ Features
